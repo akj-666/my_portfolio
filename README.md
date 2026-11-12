@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ ALDRIN K JOHNI — Portfolio
+#   ALDRIN K JOHNI — Portfolio
 
 **A cinematic, dark-themed developer portfolio with scroll-driven 3D animations and interactive UI.**
 
